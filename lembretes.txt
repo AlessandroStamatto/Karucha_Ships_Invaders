@@ -1,0 +1,11 @@
+﻿1º
+>>>>> implementar sistema de achievements <<<<<
+
+Implementar a parte das estórias com as telas que Ana Carla vai mandar [No início do jogo e após cada fase boss (3, 6, 9, 12, 15, 18, 21, 24, 27 e 30)]
+
+terminar de fazer o menu (com about, estória...)
+
+
+Substituir a tela de "passou de fase" pela que Ana Carla vai enviar
+
+

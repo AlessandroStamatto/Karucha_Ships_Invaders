@@ -1,0 +1,18 @@
+return {
+-- Table: {1}
+{
+   ["karucha_on_the_go"]=0,
+   ["hiragana_warrior"]=0,
+   ["karucha_reckless"]=0,
+   ["karucha_cautious"]=0,
+   ["hiragana_on_the_go"]=0,
+   ["hiragana_lover"]=0,
+   ["handakuten_sensei"]=0,
+   ["hiragana_newbie"]=0,
+   ["karucha_beginner"]=0,
+   ["karucha_sensei"]=0,
+   ["karucha_newbie"]=0,
+   ["goujon_master"]=0,
+   ["karucha_master"]=0,
+},
+}

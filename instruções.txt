@@ -1,0 +1,4 @@
+Teoricamente é só executar o run.bat,
+
+Se não funcionar tenta instalar o vcredist_x86.exe que
+coloca DLLs necessárias

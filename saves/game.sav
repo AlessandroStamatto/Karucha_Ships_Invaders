@@ -1,0 +1,10 @@
+return {
+-- Table: {1}
+{
+   ["hard"]=1,
+   ["easy"]=1,
+   ["selected"]="medium",
+   ["sound"]=1,
+   ["medium"]=3,
+},
+}
